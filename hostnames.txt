@@ -1,7 +1,10 @@
 # Source: https://github.com/d3ward/toolz/blob/master/src/d3host.txt
-# Updated on 22-Nov-2024
+# Updated on 10-Apr-2025
 
 #============ Ads =============
+
+# --- Clevertap
+0.0.0.0 clevertap.in
 
 # --- Amazon
 0.0.0.0 adtago.s3.amazonaws.com
